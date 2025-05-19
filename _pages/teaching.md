@@ -12,8 +12,12 @@ redirect_from:
 
 
 <p aligning = "center">    
-<img  src="/images/RAL2022-robots.png" style="width:auto;height:300px" />
-<img  src="/images/IROS2023-robot.png" style="width:auto;height:300px" />
-<img  src="/images/ICRA2025-Trofybot.png" style="width:auto;height:300px" />
-<img  src="/images/RAL2023-Skywalker.png" style="width:auto;height:300px" />
+<img  src="/images/RAL2022-robots.png" style="width:400px;height:300px" />
+<img  src="/images/IROS2023-robot.png" style="width:400px;height:300px" />
+<img  src="/images/TABV-all.png" style="width:800px;height:400px" />
+</p>
+
+<p aligning = "center">    
+<img  src="/images/NMPC-quadrotor" style="width:400px;height:300px" />
+<img  src="/images/NMPC_tracking" style="width:600px;height:300px" />
 </p>
