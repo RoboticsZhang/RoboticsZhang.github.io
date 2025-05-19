@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/zhang2022autonomous
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-1-25
+venue: 'IEEE Robotics and Automation Letters(RA-L)'
 videourl: 'https://www.youtube.com/watch?v=Bdb5mK9OKIo'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9691888/'
 codeurl: 'https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation'

@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-***Real-Time Trajectory Planning for Aerial Perching***, **<u>Jialin Ji</u>**, Tiankai Yang, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2022**). [[preprint](https://arxiv.org/abs/2203.01061)] [[code](https://github.com/ZJU-FAST-Lab/Fast-Perching)] [[video](https://www.bilibili.com/video/BV14q4y147uz/)]
+***Real-Time Trajectory Planning for Aerial Perching***
+**<u>Jialin Ji</u>**, Tiankai Yang, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2022**).
+[[preprint](https://arxiv.org/abs/2203.01061)] [[code](https://github.com/ZJU-FAST-Lab/Fast-Perching)] [[video](https://www.bilibili.com/video/BV14q4y147uz/)]
 
 ***Elastic Tracker: A Spatio-temporal Trajectory Planner for Flexible Areial Tracking***, **<u>Jialin Ji</u>**, Neng Pan, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2022**). [[preprint](https://arxiv.org/abs/2109.07111)] [[code](https://github.com/ZJU-FAST-Lab/Elastic-Tracker)] [[video](https://www.youtube.com/watch?v=G5taHOpAZj8)]
 
