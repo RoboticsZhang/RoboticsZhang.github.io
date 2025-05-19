@@ -29,7 +29,7 @@ Various kinds of customized terrestrial-aerial bimodal vehicles.
 
 
 <div aligning = "center">    
-<img  src="/images/NMPC-quadrotor.png" style="width:400px;height:300px" />
+<img  src="/images/NMPC-quadrotor.png" style="width:200px;height:150px" />
 <img  src="/images/NMPC_tracking.gif" style="width:600px;height:300px" />
 <br>
 Micro UAV platform for NMPC high-speed trajectory tracking tests.
