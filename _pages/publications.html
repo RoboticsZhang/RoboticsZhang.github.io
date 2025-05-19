@@ -13,11 +13,11 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="marked.min.js"></script>
 <div id="markdown-content"></div>
 
 <script>
-    fetch('_publications/all_publications.md')
+    fetch('all_publications.md')
         .then(response => response.text())
         .then(data => {
             document.getElementById('markdown-content').innerHTML = marked(data);
