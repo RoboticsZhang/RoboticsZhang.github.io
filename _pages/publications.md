@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-***1. Real-Time Trajectory Planning for Aerial Perching***  
+*** 1.Real-Time Trajectory Planning for Aerial Perching***  
 ![RUNOOB 图标](/images/RAL2022.png)
 **<u>Jialin Ji</u>**, Tiankai Yang, Chao Xu, Fei Gao*  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2022**).  
