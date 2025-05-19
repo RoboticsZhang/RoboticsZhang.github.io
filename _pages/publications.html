@@ -4,22 +4,37 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!DOCTYPE html>
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<html>
+<head>
+    <title>显示Markdown文件</title>
+    <!-- 引入marked.js库 -->
+    <script src="marked.min.js"></script>
+    <style>
+        #markdown-content {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="markdown-content"></div>
 
-<!-- New style rendering if publication categories are defined -->
-
-<script src="marked.min.js"></script>
-<div id="markdown-content"></div>
-
-<script>
-    fetch('all_publications.md')
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('markdown-content').innerHTML = marked(data);
-        });
-</script>
+    <script>
+        // 使用fetch获取md文件
+        fetch('all_publications.md')
+            .then(response => response.text())
+            .then(text => {
+                // 使用marked将markdown转换为HTML
+                document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            })
+            .catch(err => console.error('加载Markdown文件失败:', err));
+    </script>
+</body>
+</html>
