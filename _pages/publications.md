@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ***1.Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
-**<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue, Yuhan Wang, Ruixu Geng, Fei Gao*  
+**<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]  
 <img src="/images/RAL2024-cover.png" style="width:auto;height:200px" />  <img src="/images/RAL2024-architecture.png" style="width:auto;height:200px" />  
@@ -32,7 +32,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022.
 
 
 ***4.Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
-Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan, Chao Xu, Fei Gao*
+Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan<sup>#</sup>, Chao Xu, Fei Gao*
 IEEE International Conference on Robotics and Automation (**ICRA**), 2021.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/9561948/)] [[code](https://github.com/ZJU-FAST-Lab/Fast-tracker)] [[video](https://www.youtube.com/watch?v=w8ECy6rgYa8)] [[Media Report](https://spectrum.ieee.org/video-friday-snugglebot)]  
 <img src="/images/fasttracker-exp.gif" style="width:auto;height:200px" />  <img src="/images/fasttracker-report.png" style="width:auto;height:200px" />  
