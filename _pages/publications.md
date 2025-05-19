@@ -28,7 +28,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022.
 [[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)] [[Media Report](https://www.youtube.com/watch?v=kaijXxgYyRY)] 
 
 ***4.Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
-<img src="/images/RAL2022.png" height="200" />  <img src="/images/fasttracker-report.png" height="200" />  
+<img src="/images/fasttracker-exp.gif" height="200px" />  <img src="/images/fasttracker-report.png" height="200px" />  
 Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan, Chao Xu, Fei Gao*
 IEEE International Conference on Robotics and Automation (**ICRA**), 2021.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/9561948/)] [[code](https://github.com/ZJU-FAST-Lab/Fast-tracker)] [[video](https://www.youtube.com/watch?v=w8ECy6rgYa8)] [[Media Report](https://spectrum.ieee.org/video-friday-snugglebot)] 
