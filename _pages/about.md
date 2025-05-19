@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Biography"
 author_profile: true
 redirect_from: 
