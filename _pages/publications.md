@@ -26,7 +26,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 
 **<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2022.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)]  
-<img src="/images/RAL2022-exp.gif" />  <img src="/images/newscientist-report.png" style="width:auto;height:200px" />  
+<img src="/images/RAL2022-exp.gif" style="width:auto;height:200px" />  <img src="/images/newscientist-report.png" style="width:auto;height:200px" />  
 
 
 
