@@ -9,18 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-***1.Real-Time Trajectory Planning for Aerial Perching***  
+***1.Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
 <img src="/images/RAL2022.png" width="300" />  
-**<u>Jialin Ji</u>**, Tiankai Yang, Chao Xu, Fei Gao*  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2022**).  
-[[preprint](https://arxiv.org/abs/2203.01061)] [[code](https://github.com/ZJU-FAST-Lab/Fast-Perching)] [[video](https://www.bilibili.com/video/BV14q4y147uz/)]
+**<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2024.  
+[[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]
 
-***Elastic Tracker: A Spatio-temporal Trajectory Planner for Flexible Areial Tracking***, **<u>Jialin Ji</u>**, Neng Pan, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2022**). [[preprint](https://arxiv.org/abs/2109.07111)] [[code](https://github.com/ZJU-FAST-Lab/Elastic-Tracker)] [[video](https://www.youtube.com/watch?v=G5taHOpAZj8)]
+***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***  
+<img src="/images/RAL2022.png" width="300" />  
+**<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
+[[paper](https://ieeexplore.ieee.org/abstract/document/10342188)] [[video](https://www.youtube.com/watch?v=_KhqTl2Vlqc)] 
 
-***Autonomous Flights in Dynamic Environments with Onboard Vision***, Yingjian Wang, **<u>Jialin Ji</u>**, Qianhao Wang, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.05870)] [[video](https://www.youtube.com/watch?v=5YwNXcypBmk)]
+***3.Autonomous and adaptive navigation for terrestrial-aerial bimodal vehicles***  
+<img src="/images/RAL2022.png" width="300" />  
+**<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2022.  
+[[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)] [[Media Report](https://www.youtube.com/watch?v=kaijXxgYyRY)] 
 
-***Visibility-aware Trajectory Optimization with Application to Aerial Tracking***, Qianhao Wang, Yuman Gao, **<u>Jialin Ji</u>**, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.06742)] [[video](https://www.youtube.com/watch?v=PhhrOBx54YY)]
+***4.Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
+<img src="/images/RAL2022.png" width="300" />  
+Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan, Chao Xu, Fei Gao*
+IEEE International Conference on Robotics and Automation (**ICRA**), 2021.  
+[[paper](https://ieeexplore.ieee.org/abstract/document/9561948/)] [[code](https://github.com/ZJU-FAST-Lab/Fast-tracker)] [[video](https://www.youtube.com/watch?v=w8ECy6rgYa8)] [[Media Report](https://spectrum.ieee.org/video-friday-snugglebot)] 
 
-***Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion***, **<u>Jialin Ji</u>**<sup>#</sup>, Zhepei Wang<sup>#</sup>, Yingjian Wang, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2021**). [[preprint](https://arxiv.org/abs/2011.03975)] [[video](https://www.youtube.com/watch?v=kjIJe6MrjsU&t)]
+***5.Fast‐Tracker 2.0: Improving autonomy of aerial tracking with active vision and human location regression***  
+<img src="/images/RAL2022.png" width="300" />  
+Neng Pan, **<u>Ruibin Zhang</u>**, Tiankai Yang, Can Cui, Chao Xu, Fei Gao*
+IET Cyber‐Systems and Robotics, 2021.  
+[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/csy2.12033)] [[video](https://www.youtube.com/watch?v=vmA-ZFS_LBM)] 
 
-***CMPCC: Corridor based Model Predictive Contouring Control for Aggressive Drone Flight***, **<u>Jialin Ji</u>**<sup>#</sup>, Xin Zhou<sup>#</sup>, Chao Xu, Fei Gao*, International Symposium on Experimental Robotics (**ISER 2020**). [[preprint](https://arxiv.org/abs/2007.03271)] [[video](https://www.youtube.com/watch?v=u8XP89ziUhE)] [[code](https://github.com/ZJU-FAST-Lab/CMPCC)]
+***6.Skater: A novel bi-modal bi-copter robot for adaptive locomotion in air and diverse terrain***  
+<img src="/images/RAL2022.png" width="300" />  
+Junxiao Lin, **<u>Ruibin Zhang</u>**, Neng Pan, Chao Xu, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2024.   
+[[paper](https://ieeexplore.ieee.org/abstract/document/10538378)] [[video](https://www.youtube.com/watch?v=DBYpDXLj_EI)] 
+
+***7.Skywalker: A compact and agile air-ground omnidirectional vehicle***  
+<img src="/images/RAL2022.png" width="300" />  
+Neng Pan, Jinqi Jiang, **<u>Ruibin Zhang</u>**, Can Cui, Chao Xu, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2023.  
+[[paper](https://ieeexplore.ieee.org/abstract/document/10068761)] [[video](https://www.youtube.com/watch?v=1Gm94tluXdA&t=4s)] 
+
+***8.TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency***  
+<img src="/images/RAL2022.png" width="300" />  
+Mingwei Lai, Yuqian Ye, Hanyu Wu, Chice Xuan, **<u>Ruibin Zhang</u>**, Qiuyu Ren, Fei Gao, Chao Xu, Yanjun Cao*
+IEEE International Conference on Robotics and Automation (**ICRA**), **Best Paper Finalist**, 2025.   
+[[paper](https://ieeexplore.ieee.org/abstract/document/10068761)] [[video](https://www.youtube.com/watch?v=1Gm94tluXdA&t=4s)] 
+
+***9.Roller-Quadrotor: A Novel Hybrid Terrestrial/Aerial Quadrotor with Unicycle-Driven and Rotor-Assisted Turning***  
+<img src="/images/RAL2022.png" width="300" />  
+Zhi Zheng, Jin Wang, Yuze Wu, Qifeng Cai, Huan Yu, **<u>Ruibin Zhang</u>**, Jie Tu, Jun Meng, Guodong Lu, Fei Gao*
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025.
+[[paper](https://ieeexplore.ieee.org/abstract/document/10341703/)] [[video](https://www.bilibili.com/video/BV11X4y1n7DE/?spm_id_from=333.337.search-card.all.click&vd_source=89740acfe8eb420eb4ea2be6dc83479f)] 
