@@ -15,11 +15,13 @@ redirect_from:
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]
 
-***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***  
-<img src="/images/RAL2022.png" width="300" />  
+***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***   
 **<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10342188)] [[video](https://www.youtube.com/watch?v=_KhqTl2Vlqc)] 
+
+<img src="/images/IROS2023-exp.gif" style="height：200px" />  <img src="/images/IROS2023-topgraph.png" style="height：200px" />  
+
 
 ***3.Autonomous and adaptive navigation for terrestrial-aerial bimodal vehicles***  
 <img src="/images/RAL2022.png" width="300" />  
@@ -31,7 +33,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022.
 Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan, Chao Xu, Fei Gao*
 IEEE International Conference on Robotics and Automation (**ICRA**), 2021.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/9561948/)] [[code](https://github.com/ZJU-FAST-Lab/Fast-tracker)] [[video](https://www.youtube.com/watch?v=w8ECy6rgYa8)] [[Media Report](https://spectrum.ieee.org/video-friday-snugglebot)]  
-<img src="/images/fasttracker-exp.gif" height="100px" />  <img src="/images/fasttracker-report.png" height="100px" />  
+<img src="/images/fasttracker-exp.gif" style="height：200px" />  <img src="/images/fasttracker-report.png" style="height：200px" />  
 
 
 ***5.Fast‐Tracker 2.0: Improving autonomy of aerial tracking with active vision and human location regression***   
