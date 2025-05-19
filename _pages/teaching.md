@@ -11,21 +11,14 @@ redirect_from:
 
 
 
-<p aligning = "center">    
-<img  src="/images/RAL2022-robots-smoke.png" style="width:400px;height:300px" />
-<img  src="/images/IROS2023-robot.png" style="width:400px;height:300px" />
-<img  src="/images/TABV-all.png" style="width:800px;height:400px" />
-</p>
 
 <div aligning = "center">    
-<img  src="/images/RAL2022-robots-smoke.png" style="width:400px;height:300px" />
-<img  src="/images/IROS2023-robot.png" style="width:400px;height:300px" />
-<img  src="/images/TABV-all.png" style="width:800px;height:400px" />
+<img  src="/images/RAL2022-robots-smoke.png" style="width:300px;height:225px" />
+<img  src="/images/IROS2023-robot.png" style="width:300px;height:225px" />
+<img  src="/images/TABV-all.png" style="width:600px;height:300px" />
 <br>
 Various kinds of customized terrestrial-aerial bimodal vehicles.
 </div>
-
-
 
 
 <div aligning = "center">    
