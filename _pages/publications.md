@@ -10,11 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ***1.Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
+**<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue, Yuhan Wang, Ruixu Geng, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]  
 <img src="/images/RAL2024-cover.png" style="width:auto;height:200px" />  <img src="/images/RAL2024-architecture.png" style="width:auto;height:200px" />  
 
-***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***   
+***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***  
 **<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10342188)] [[video](https://www.youtube.com/watch?v=_KhqTl2Vlqc)]  [[Media Report](https://www.youtube.com/watch?v=kaijXxgYyRY)] 
