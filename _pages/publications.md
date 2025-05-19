@@ -11,14 +11,14 @@ redirect_from:
 
 ***1.Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
 <img src="/images/topgraph_revised.png" width="300" />  
-**<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]
+<img src="/images/RAL2024-cover.png" style="width:auto;height:200px" />  <img src="/images/RAL2024-architecture.png" style="width:auto;height:200px" />  
 
 ***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***   
 **<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
-[[paper](https://ieeexplore.ieee.org/abstract/document/10342188)] [[video](https://www.youtube.com/watch?v=_KhqTl2Vlqc)] 
+[[paper](https://ieeexplore.ieee.org/abstract/document/10342188)] [[video](https://www.youtube.com/watch?v=_KhqTl2Vlqc)]  [[Media Report](https://www.youtube.com/watch?v=kaijXxgYyRY)] 
 
 <img src="/images/IROS2023-exp.gif" style="width:auto;height:200px" />  <img src="/images/IROS2023-topgraph.png" style="width:auto;height:200px" />  
 
@@ -27,7 +27,10 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 
 <img src="/images/RAL2022.png" width="300" />  
 **<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2022.  
-[[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)] [[Media Report](https://www.youtube.com/watch?v=kaijXxgYyRY)] 
+[[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)]
+<img src="/images/RAL2022-exp.gif" style="width:auto;height:200px" />  <img src="/images/newscientist-report" style="width:auto;height:200px" />  
+
+
 
 ***4.Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
 Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan, Chao Xu, Fei Gao*
