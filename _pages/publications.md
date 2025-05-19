@@ -10,9 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ***1.Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
-<img src="/images/topgraph_revised.png" width="300" />  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
-[[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10592769)] [[code](https://github.com/ZJU-FAST-Lab/Radar-Diffusion)] [[video](https://www.youtube.com/watch?v=Q3S-9w3dGV4)]  
 <img src="/images/RAL2024-cover.png" style="width:auto;height:200px" />  <img src="/images/RAL2024-architecture.png" style="width:auto;height:200px" />  
 
 ***2.Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***   
@@ -24,11 +23,10 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 
 
 
 ***3.Autonomous and adaptive navigation for terrestrial-aerial bimodal vehicles***  
-<img src="/images/RAL2022.png" width="300" />  
 **<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2022.  
-[[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)]
-<img src="/images/RAL2022-exp.gif" style="width:auto;height:200px" />  <img src="/images/newscientist-report" style="width:auto;height:200px" />  
+[[paper](https://ieeexplore.ieee.org/abstract/document/9691888/)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)]  
+<img src="/images/RAL2022.png"  style="width:auto;height:200px" />  <img src="/images/RAL2022-exp.gif" />  <img src="/images/newscientist-report.png" style="width:auto;height:200px" />  
 
 
 
