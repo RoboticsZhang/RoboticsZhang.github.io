@@ -13,8 +13,8 @@ redirect_from:
 
 
 <div aligning = "center">    
-<br>
 Various kinds of customized terrestrial-aerial bimodal vehicles:
+<br>
 <img  src="/images/RAL2022-robots-smoke.png" style="width:300px;height:225px" />
 <img  src="/images/IROS2023-robot.png" style="width:300px;height:225px" />
 <img  src="/images/TABV-all.png" style="width:600px;height:300px" />
@@ -23,8 +23,8 @@ Various kinds of customized terrestrial-aerial bimodal vehicles:
 
 
 <div aligning = "center">    
-<br>
 Micro UAV platform for NMPC high-speed trajectory tracking tests:
+<br>
 <img  src="/images/NMPC-quadrotor.png" style="width:200px;height:150px" />
 <img  src="/images/NMPC_tracking.gif" style="width:600px;height:300px" />
 </div>
