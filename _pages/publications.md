@@ -40,25 +40,25 @@ IET Cyber‐Systems and Robotics, 2021.
 [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/csy2.12033)] [[video](https://www.youtube.com/watch?v=vmA-ZFS_LBM)] 
 
 ***6.Skater: A novel bi-modal bi-copter robot for adaptive locomotion in air and diverse terrain***  
-<img src="/images/RAL2022.png" width="300" />  
+<img src="/images/RAL2024-Skater.png" width="300" />  
 Junxiao Lin, **<u>Ruibin Zhang</u>**, Neng Pan, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2024.   
 [[paper](https://ieeexplore.ieee.org/abstract/document/10538378)] [[video](https://www.youtube.com/watch?v=DBYpDXLj_EI)] 
 
 ***7.Skywalker: A compact and agile air-ground omnidirectional vehicle***  
-<img src="/images/RAL2022.png" width="300" />  
+<img src="/images/RAL2023-Skywalker.png" width="300" />  
 Neng Pan, Jinqi Jiang, **<u>Ruibin Zhang</u>**, Can Cui, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2023.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/10068761)] [[video](https://www.youtube.com/watch?v=1Gm94tluXdA&t=4s)] 
 
 ***8.TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency***  
-<img src="/images/RAL2022.png" width="300" />  
+<img src="/images/ICRA2025-Trofybot.png" width="300" />  
 Mingwei Lai, Yuqian Ye, Hanyu Wu, Chice Xuan, **<u>Ruibin Zhang</u>**, Qiuyu Ren, Fei Gao, Chao Xu, Yanjun Cao*
 IEEE International Conference on Robotics and Automation (**ICRA**), **Best Paper Finalist**, 2025.   
-[[paper](https://ieeexplore.ieee.org/abstract/document/10068761)] [[video](https://www.youtube.com/watch?v=1Gm94tluXdA&t=4s)] 
+[[paper](https://ieeexplore.ieee.org/abstract/document/10068761)] [[video](https://www.bilibili.com/video/BV1K4QnYqEwr/?vd_source=89740acfe8eb420eb4ea2be6dc83479f)] 
 
 ***9.Roller-Quadrotor: A Novel Hybrid Terrestrial/Aerial Quadrotor with Unicycle-Driven and Rotor-Assisted Turning***  
-<img src="/images/RAL2022.png" width="300" />  
+<img src="/images/IROS2023-Rollerquadrotor.png" width="300" />  
 Zhi Zheng, Jin Wang, Yuze Wu, Qifeng Cai, Huan Yu, **<u>Ruibin Zhang</u>**, Jie Tu, Jun Meng, Guodong Lu, Fei Gao*
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025.
 [[paper](https://ieeexplore.ieee.org/abstract/document/10341703/)] [[video](https://www.bilibili.com/video/BV11X4y1n7DE/?spm_id_from=333.337.search-card.all.click&vd_source=89740acfe8eb420eb4ea2be6dc83479f)] 
