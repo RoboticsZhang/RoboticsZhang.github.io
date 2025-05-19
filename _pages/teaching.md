@@ -18,6 +18,6 @@ redirect_from:
 </p>
 
 <p aligning = "center">    
-<img  src="/images/NMPC-quadrotor" style="width:400px;height:300px" />
-<img  src="/images/NMPC_tracking" style="width:600px;height:300px" />
+<img  src="/images/NMPC-quadrotor.ong" style="width:400px;height:300px" />
+<img  src="/images/NMPC_tracking.gif" style="width:600px;height:300px" />
 </p>
