@@ -6,11 +6,12 @@ author_profile: true
 ---
 <!DOCTYPE html>
 
+
 <html>
 <head>
     <title>显示Markdown文件</title>
     <!-- 引入marked.js库 -->
-    <script src="marked.min.js"></script>
+    <script src="_pages\marked.min.js"></script>
     <style>
         #markdown-content {
             padding: 20px;
@@ -21,10 +22,9 @@ author_profile: true
 </head>
 <body>
     <div id="markdown-content"></div>
-
     <script>
         // 使用fetch获取md文件
-        fetch('all_publications.md')
+        fetch('_pages\all_publications.md')
             .then(response => response.text())
             .then(text => {
                 // 使用marked将markdown转换为HTML
