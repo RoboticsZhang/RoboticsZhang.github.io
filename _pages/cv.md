@@ -37,7 +37,7 @@ Skills
 
 Publications
 ======  
-***Journal Papers:***
+***Conference Papers:***
 ------
 ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
 **<u>Ruibin Zhang</u>**, Weihang Chen, Fei Gao*  
