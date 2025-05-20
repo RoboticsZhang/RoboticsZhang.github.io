@@ -36,7 +36,7 @@ Skills
 
 
 Publications
-======
+======  
 ***Journal Papers:***
 ------
 ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
