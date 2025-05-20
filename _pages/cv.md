@@ -31,15 +31,15 @@ Honors and awards
 
 Skills
 ======
-* Programming Languages: Python, C, C++, Matlab.
-* Tools of Production: ROS, Linux, Git, CMake, Docker, SolidWorks
-* Tools of Deep Learning: PyTorch, OpenCV, CUDA, ONNX, TensorRT
+* **Programming Languages**: Python, C, C++, Matlab.
+* **Tools of Production**: ROS, Linux, Git, CMake, Docker, SolidWorks
+* **Tools of Deep Learning**: PyTorch, OpenCV, CUDA, ONNX, TensorRT
 
 
 Publications
 ======
-***Journal Papers***
-
+***Journal Papers:***
+------
 ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
 **<u>Ruibin Zhang</u>**, Weihang Chen, Fei Gao*  
 IEEE Transactions, 2025, Under Review.  
@@ -59,8 +59,8 @@ IET Cyber‐Systems and Robotics, 2021.
 Neng Pan, Jinqi Jiang, **<u>Ruibin Zhang</u>**, Can Cui, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2023.  
 
-***Conference Papers***
-
+***Conference Papers:***
+------
 ***Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***  
 **<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
