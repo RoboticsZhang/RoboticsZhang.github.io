@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ruibin Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ruibin Zhang"
 description              : &description "personal description"
