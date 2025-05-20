@@ -11,6 +11,6 @@ I am a fourth-year PhD student from [FAST Lab](https://github.com/ZJU-FAST-Lab) 
 
 My current research interest lies in data-driven environmental perception applied on mobile robots (e.g., UAVs, self-driving cars). Specifically, my recent studies focus on robust sensing modalities such as mmWave radars, aiming to facilitate all-weather safe navigation in various challenging environments. I have also committed to designing novel and elegant autonomous robot systems such as [Terrestrial-Aerial Bimodal Vehicles](https://www.youtube.com/watch?v=Bdb5mK9OKIo) and [Target-Tracking UAVs](https://www.youtube.com/watch?v=w8ECy6rgYa8&t=11s) which have been reported by [New Scientist](https://www.youtube.com/watch?v=kaijXxgYyRY) and [IEEE Specturm](https://spectrum.ieee.org/video-friday-snugglebot). 
 
-I believe that **excellent robotics research is also excellent robotics engineering**. Therefore, I place great importance on the practical application of my research and always maintain enthusiasm for new scenarios and challenges.
+I believe that **in the field of robotics, excellent research is also excellent engineering**. Therefore, I place great importance on the practical application of my research and always maintain enthusiasm for new scenarios and challenges.
 
 
