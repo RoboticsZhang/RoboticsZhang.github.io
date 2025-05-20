@@ -16,18 +16,17 @@ Education
 
 Work experience
 ======
-<h4 style="display: flex;justify-content: space-between;">
-<span>DJI Innovation</span><span>Robotics Engineer, Internship</span><span>2024.05 - 2025.04</span>
-</h4>
+
+* **DJI Innovation**, Robotics Engineer, 2024.05 - 2025.04  
+Internship at Enviormental Perception Group, working on mmWave radar semantic perception.
 
 Honors and awards
 ======
-<h4 style="display: flex;justify-content: space-between;">
-<span>A4x AI technology Scholarship </span><span>2024</span>
-</h4>
-<h4 style="display: flex;justify-content: space-between;">
-<span>Huawei Elite Scholarship </span><span>2022</span>
-</h4>
+* A4x AI technology Scholarship, 2024
+* Huawei Elite Scholarship, 2022
+* Zhejiang Government Scholarship, 2020
+* Excellent Student Award, 2019, 2020
+* National Scholarship, 2018
 
 Skills
 ======
