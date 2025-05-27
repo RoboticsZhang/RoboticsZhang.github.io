@@ -38,9 +38,9 @@ Skills
 Publications
 ======
 ## **Journal Papers:**
-***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
+<!-- ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
 **<u>Ruibin Zhang</u>**, Weihang Chen, Fei Gao*  
-IEEE Transactions, 2025, Under Review.  
+IEEE Transactions, 2025, Under Review.   -->
 ***Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
 **<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  

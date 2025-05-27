@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
+<!-- ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
 **<u>Ruibin Zhang</u>**, Weihang Chen, Fei Gao*  
 IEEE Transactions, 2025, Under Review.  
-<img src="/images/2025-background.png" style="width:auto;height:200px" />  <img src="/images/2025-exp1.png" style="width:auto;height:200px" />  
+<img src="/images/2025-background.png" style="width:auto;height:200px" />  <img src="/images/2025-exp1.png" style="width:auto;height:200px" />   -->
 
 ***Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
 **<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*  
