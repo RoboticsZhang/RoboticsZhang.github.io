@@ -34,12 +34,16 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022.
 [[paper](https://ieeexplore.ieee.org/document/9691888)] [[code](https://github.com/ZJU-FAST-Lab/Terrestrial-Aerial-Navigation)] [[video](https://www.youtube.com/watch?v=Bdb5mK9OKIo)]  
 <img src="/images/RAL2022-exp.gif" style="width:auto;height:200px" />  <img src="/images/newscientist-report.png" style="width:auto;height:200px" />  
 
-
-
-***4.Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
+***Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
 Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan<sup>#</sup>, Chao Xu, Fei Gao*
 IEEE International Conference on Robotics and Automation (**ICRA**), 2021.  
 [[paper](https://ieeexplore.ieee.org/document/9561948/)] [[code](https://github.com/ZJU-FAST-Lab/Fast-tracker)] [[video](https://www.youtube.com/watch?v=w8ECy6rgYa8)] [[Media Report](https://spectrum.ieee.org/video-friday-snugglebot)]  
+<img src="/images/fasttracker-exp.gif" style="width:auto;height:200px" />  <img src="/images/fasttracker-report.png" style="width:auto;height:200px" />  
+
+***Autonomous Exploration With Terrestrial-Aerial Bimodal Vehicles***  
+Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2025. 
+[[paper](https://ieeexplore.ieee.org/abstract/document/11122320)]  [[video](https://www.bilibili.com/video/BV1wgtFz9ErL/)] 
 <img src="/images/fasttracker-exp.gif" style="width:auto;height:200px" />  <img src="/images/fasttracker-report.png" style="width:auto;height:200px" />  
 
 
