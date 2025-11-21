@@ -44,7 +44,7 @@ IEEE International Conference on Robotics and Automation (**ICRA**), 2021.
 Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2025. 
 [[paper](https://ieeexplore.ieee.org/abstract/document/11122320)]  [[video](https://www.bilibili.com/video/BV1wgtFz9ErL/)] 
-<img src="/images/fasttracker-exp.gif" style="width:auto;height:200px" />  <img src="/images/fasttracker-report.png" style="width:auto;height:200px" />  
+<img src="/images/TABV2.gif" style="width:auto;height:200px" />  
 
 
 ***Fast‐Tracker 2.0: Improving autonomy of aerial tracking with active vision and human location regression***   
