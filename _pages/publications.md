@@ -42,11 +42,8 @@ IEEE International Conference on Robotics and Automation (**ICRA**), 2021.
 
 ***Autonomous Exploration With Terrestrial-Aerial Bimodal Vehicles***  
 Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*
-
 IEEE Robotics and Automation Letters (**RA-L**), 2025. 
-
 [[paper](https://ieeexplore.ieee.org/abstract/document/11122320)]  [[video](https://www.bilibili.com/video/BV1wgtFz9ErL/)] 
-
 <img src="/images/TABV2.gif" style="width:auto;height:200px" />  
 
 
