@@ -64,7 +64,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2023.
 ***TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency***  
 Mingwei Lai, Yuqian Ye, Hanyu Wu, Chice Xuan, **<u>Ruibin Zhang</u>**, Qiuyu Ren, Fei Gao, Chao Xu, Yanjun Cao*
 IEEE International Conference on Robotics and Automation (**ICRA**), **Best Paper Finalist**, 2025.   
-[[video](https://www.bilibili.com/video/BV1K4QnYqEwr/?vd_source=89740acfe8eb420eb4ea2be6dc83479f)] 
+[[paper](https://ieeexplore.ieee.org/document/11128779/)] [[video](https://www.bilibili.com/video/BV1K4QnYqEwr/?vd_source=89740acfe8eb420eb4ea2be6dc83479f)] 
 
 ***Roller-Quadrotor: A Novel Hybrid Terrestrial/Aerial Quadrotor with Unicycle-Driven and Rotor-Assisted Turning***  
 Zhi Zheng, Jin Wang, Yuze Wu, Qifeng Cai, Huan Yu, **<u>Ruibin Zhang</u>**, Jie Tu, Jun Meng, Guodong Lu, Fei Gao*
