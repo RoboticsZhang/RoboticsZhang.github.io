@@ -16,8 +16,9 @@ Education
 
 Work experience
 ======
-
-* **DJI Innovation**, Robotics Engineer, 2024.05 - 2025.04  
+* **DJI Innovation**, Robotics Algorithm Engineer, 2026.06 - Now  
+Full-time position on UAV autonomous navigation algorithm R＆D.
+* **DJI Innovation**, Robotics Algorithm Engineer, 2024.05 - 2025.04  
 Internship at Enviormental Perception Group, working on mmWave radar semantic perception.
 
 Honors and awards
