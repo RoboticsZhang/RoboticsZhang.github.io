@@ -47,6 +47,9 @@ IEEE Robotics and Automation Letters (**RA-L**), 2024.
 ***Autonomous and adaptive navigation for terrestrial-aerial bimodal vehicles***  
 **<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2022.  
+***Autonomous exploration with terrestrial-aerial bimodal vehicles***  
+Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*
+IEEE Robotics and Automation Letters (**RA-L**), 2025.  
 ***Skater: A novel bi-modal bi-copter robot for adaptive locomotion in air and diverse terrain***  
 Junxiao Lin, **<u>Ruibin Zhang</u>**, Neng Pan, Chao Xu, Fei Gao*
 IEEE Robotics and Automation Letters (**RA-L**), 2024.   
