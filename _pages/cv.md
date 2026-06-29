@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D   in Control Science and Engineering, FAST Lab, Zhejiang University, 2026 (expected)
+* Ph.D   in Control Science and Engineering, FAST Lab, Zhejiang University, 2026
 * B.Eng. in Mechatronics, Chu-Kochen Honors College, Zhejiang University, 2021
 
 Work experience
@@ -39,8 +39,8 @@ Publications
 ======
 ## **Journal Papers:**
 <!-- ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
-**<u>Ruibin Zhang</u>**, Weihang Chen, Fei Gao*  
-IEEE Transactions, 2025, Under Review.   -->
+**<u>Ruibin Zhang</u>**, Jialiang Hou*, Fei Gao*  
+IEEE Transactions on Automation Science and Engineering (**T-ASE**), 2026.   -->
 ***Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model***  
 **<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
