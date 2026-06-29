@@ -46,33 +46,33 @@ IEEE Transactions on Automation Science and Engineering (**T-ASE**), 2026.
 **<u>Ruibin Zhang</u>**<sup>#</sup>, Donglai Xue<sup>#</sup>, Yuhan Wang, Ruixu Geng, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.  
 3. ***Autonomous and adaptive navigation for terrestrial-aerial bimodal vehicles***  
-**<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*
+**<u>Ruibin Zhang</u>**, Yuze Wu, Lixian Zhang, Chao Xu, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2022.  
 4. ***Autonomous exploration with terrestrial-aerial bimodal vehicles***  
-Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*
+Yuman Gao<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Tiancheng Lai, Yanjun Cao, Chao Xu, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2025.  
 5. ***Skater: A novel bi-modal bi-copter robot for adaptive locomotion in air and diverse terrain***  
-Junxiao Lin, **<u>Ruibin Zhang</u>**, Neng Pan, Chao Xu, Fei Gao*
+Junxiao Lin, **<u>Ruibin Zhang</u>**, Neng Pan, Chao Xu, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2024.   
 6. ***Fast‐Tracker 2.0: Improving autonomy of aerial tracking with active vision and human location regression***   
-Neng Pan, **<u>Ruibin Zhang</u>**, Tiankai Yang, Can Cui, Chao Xu, Fei Gao*
+Neng Pan, **<u>Ruibin Zhang</u>**, Tiankai Yang, Can Cui, Chao Xu, Fei Gao*  
 IET Cyber‐Systems and Robotics, 2021.  
 7. ***Skywalker: A compact and agile air-ground omnidirectional vehicle***  
-Neng Pan, Jinqi Jiang, **<u>Ruibin Zhang</u>**, Can Cui, Chao Xu, Fei Gao*
+Neng Pan, Jinqi Jiang, **<u>Ruibin Zhang</u>**, Can Cui, Chao Xu, Fei Gao*  
 IEEE Robotics and Automation Letters (**RA-L**), 2023.  
 
 ## **Conference Papers:**
 1. ***Model-based planning and control for terrestrial-aerial bimodal vehicles with passive wheels***  
-**<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*
+**<u>Ruibin Zhang</u>**, Junxiao Lin, Yuze Wu, Yuman Gao, Chi Wang, Chao Xu, Yanjun Cao, Fei Gao*  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2023.  
 2. ***Fast-Tracker: A Robust Aerial System for Tracking Agile Target in Cluttered Environments***  
-Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan<sup>#</sup>, Chao Xu, Fei Gao*
+Zhichao Han<sup>#</sup>, **<u>Ruibin Zhang</u>**<sup>#</sup>, Neng Pan<sup>#</sup>, Chao Xu, Fei Gao*  
 IEEE International Conference on Robotics and Automation (**ICRA**), 2021.    
 3. ***TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency***  
-Mingwei Lai, Yuqian Ye, Hanyu Wu, Chice Xuan, **<u>Ruibin Zhang</u>**, Qiuyu Ren, Fei Gao, Chao Xu, Yanjun Cao*
+Mingwei Lai, Yuqian Ye, Hanyu Wu, Chice Xuan, **<u>Ruibin Zhang</u>**, Qiuyu Ren, Fei Gao, Chao Xu, Yanjun Cao*  
 IEEE International Conference on Robotics and Automation (**ICRA**), **Best Paper Finalist**, 2025.   
 4. ***Roller-Quadrotor: A Novel Hybrid Terrestrial/Aerial Quadrotor with Unicycle-Driven and Rotor-Assisted Turning***  
-Zhi Zheng, Jin Wang, Yuze Wu, Qifeng Cai, Huan Yu, **<u>Ruibin Zhang</u>**, Jie Tu, Jun Meng, Guodong Lu, Fei Gao*
+Zhi Zheng, Jin Wang, Yuze Wu, Qifeng Cai, Huan Yu, **<u>Ruibin Zhang</u>**, Jie Tu, Jun Meng, Guodong Lu, Fei Gao*  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025.  
   
 
