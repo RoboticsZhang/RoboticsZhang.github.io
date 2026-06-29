@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ***Sem-RaDiff: Diffusion-Based 3D Radar Semantic Perception in Cluttered Agricultural Environments***  
-**<u>Ruibin Zhang</u>**, Jialiang Houo*, and Fei Gao*  
+**<u>Ruibin Zhang</u>**, Jialiang Hou*, and Fei Gao*  
 IEEE Transactions on Automation Science and Engineering (**T-ASE**), 2026.  
 [[paper](https://ieeexplore.ieee.org/abstract/document/11513411)]
 <img src="/images/2025-background.png" style="width:auto;height:200px" />
